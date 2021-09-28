@@ -1,0 +1,5 @@
+D:\AdderssBook\AdressBookuc2\obj\Debug\netcoreapp3.1\AdressBookuc2.csproj.AssemblyReference.cache
+D:\AdderssBook\AdressBookuc2\obj\Debug\netcoreapp3.1\AdressBookuc2.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdderssBook\AdressBookuc2\obj\Debug\netcoreapp3.1\AdressBookuc2.AssemblyInfoInputs.cache
+D:\AdderssBook\AdressBookuc2\obj\Debug\netcoreapp3.1\AdressBookuc2.AssemblyInfo.cs
+D:\AdderssBook\AdressBookuc2\obj\Debug\netcoreapp3.1\AdressBookuc2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+﻿Build started...
+1>------ Build started: Project: AdressBookuc2, Configuration: Debug Any CPU ------
+1>D:\AdderssBook\AdressBookuc2\Program.cs(22,20,22,27): error CS1061: 'Datainput' does not contain a definition for 'Address' and no accessible extension method 'Address' accepting a first argument of type 'Datainput' could be found (are you missing a using directive or an assembly reference?)
+1>D:\AdderssBook\AdressBookuc2\Program.cs(26,20,26,24): error CS1061: 'Datainput' does not contain a definition for 'City' and no accessible extension method 'City' accepting a first argument of type 'Datainput' could be found (are you missing a using directive or an assembly reference?)
+1>D:\AdderssBook\AdressBookuc2\Program.cs(30,20,30,25): error CS1061: 'Datainput' does not contain a definition for 'State' and no accessible extension method 'State' accepting a first argument of type 'Datainput' could be found (are you missing a using directive or an assembly reference?)
+1>D:\AdderssBook\AdressBookuc2\Program.cs(44,21,44,27): error CS0117: 'Program' does not contain a definition for 'People'
+1>Done building project "AdressBookuc2.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
