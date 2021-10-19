@@ -1,0 +1,14 @@
+C:\Users\gokul\source\repos\AddressBookIoFile\bin\Debug\netcoreapp3.1\AddressBookIoFile.exe
+C:\Users\gokul\source\repos\AddressBookIoFile\bin\Debug\netcoreapp3.1\AddressBookIoFile.deps.json
+C:\Users\gokul\source\repos\AddressBookIoFile\bin\Debug\netcoreapp3.1\AddressBookIoFile.runtimeconfig.json
+C:\Users\gokul\source\repos\AddressBookIoFile\bin\Debug\netcoreapp3.1\AddressBookIoFile.runtimeconfig.dev.json
+C:\Users\gokul\source\repos\AddressBookIoFile\bin\Debug\netcoreapp3.1\AddressBookIoFile.dll
+C:\Users\gokul\source\repos\AddressBookIoFile\bin\Debug\netcoreapp3.1\AddressBookIoFile.pdb
+C:\Users\gokul\source\repos\AddressBookIoFile\obj\Debug\netcoreapp3.1\AddressBookIoFile.csproj.AssemblyReference.cache
+C:\Users\gokul\source\repos\AddressBookIoFile\obj\Debug\netcoreapp3.1\AddressBookIoFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokul\source\repos\AddressBookIoFile\obj\Debug\netcoreapp3.1\AddressBookIoFile.AssemblyInfoInputs.cache
+C:\Users\gokul\source\repos\AddressBookIoFile\obj\Debug\netcoreapp3.1\AddressBookIoFile.AssemblyInfo.cs
+C:\Users\gokul\source\repos\AddressBookIoFile\obj\Debug\netcoreapp3.1\AddressBookIoFile.csproj.CoreCompileInputs.cache
+C:\Users\gokul\source\repos\AddressBookIoFile\obj\Debug\netcoreapp3.1\AddressBookIoFile.dll
+C:\Users\gokul\source\repos\AddressBookIoFile\obj\Debug\netcoreapp3.1\AddressBookIoFile.pdb
+C:\Users\gokul\source\repos\AddressBookIoFile\obj\Debug\netcoreapp3.1\AddressBookIoFile.genruntimeconfig.cache
