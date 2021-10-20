@@ -1,0 +1,5 @@
+C:\Users\gokul\source\repos\CSVFileDemo\obj\Debug\netcoreapp3.1\CSVFileDemo.csproj.AssemblyReference.cache
+C:\Users\gokul\source\repos\CSVFileDemo\obj\Debug\netcoreapp3.1\CSVFileDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokul\source\repos\CSVFileDemo\obj\Debug\netcoreapp3.1\CSVFileDemo.AssemblyInfoInputs.cache
+C:\Users\gokul\source\repos\CSVFileDemo\obj\Debug\netcoreapp3.1\CSVFileDemo.AssemblyInfo.cs
+C:\Users\gokul\source\repos\CSVFileDemo\obj\Debug\netcoreapp3.1\CSVFileDemo.csproj.CoreCompileInputs.cache

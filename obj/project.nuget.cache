@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqDXKvkUmeSz22ly9OFNtrGTv6oxTeFNST5fD5b1eCPoc6Ao5m4m2JMAAGLojFmMGAKsOFCyLKSe+lQ9rB3LWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gokul\\source\\repos\\CSVFileDemo\\CSVFileDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gokul\\.nuget\\packages\\csvhelperasync\\1.0.1\\csvhelperasync.1.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CsvHelperAsync 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "CsvHelperAsync",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
