@@ -1,8 +1,8 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-  </PropertyGroup>
-
-</Project>
+﻿Key :varni 
+Person Name :varnika
+Address : mulanur,tiruppur,tamilnadu,638106
+Phone number : 8072905768
+Key :anu
+Person Name :anusri
+Address : tiruppur,tirrupur,tamilnadu,638106
+Phone number : 9698990595
